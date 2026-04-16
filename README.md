@@ -50,5 +50,13 @@ The Model captures Overall Trends but performs comparably to a Naive Baseline, h
 
 COVID-19 Trends are highly dependent on Past values, and Mobility data has limited predictive impact at the National level.
 
+**Data Note**
+
+The mobility dataset is large (>1GB) and is not included due to GitHub size limits.
+
+Download from: https://www.google.com/covid19/mobility/
+
+Place it in: data/raw/mobility.csv
+
 
 

@@ -18,7 +18,7 @@ The model captures overall trends but underperforms compared to a naive baseline
 
 ## How to Run
 1. Install dependencies : `pip install -r requirements.txt`
-2. Open the notebook : `notebook/disease_forecasting.ipynb`
+2. Open the notebook : `notebooks/disease_forecasting.ipynb`
 
 ## Project Structure
 - `data/raw` → datasets  

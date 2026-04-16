@@ -17,8 +17,8 @@ This project analyzes and forecasts COVID-19 case trends in India by integrating
 The model captures overall trends but underperforms compared to a naive baseline, highlighting the strong autoregressive nature of COVID-19 case dynamics.
 
 ## How to Run
-1. Install dependencies : pip install -r requirements.txt
-2. Open the notebook : notebook/disease_forecasting.ipynb
+1. Install dependencies : `pip install -r requirements.txt`
+2. Open the notebook : `notebook/disease_forecasting.ipynb`
 
 ## Project Structure
 - `data/raw` → datasets  
